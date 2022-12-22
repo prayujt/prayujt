@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <p align="center">
   <samp>
-My name is Prayuj and I am an upcoming Software Engineer Intern @ Capital One! I am currently majoring in Computer Science and Mathematics with a minor in History at the University of Florida!
+My name is Prayuj and I am an upcoming Software Engineer Intern @ Capital One! I am currently double majoring in Computer Science and Mathematics with a minor in History at the University of Florida.
   </samp>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=prayujt&style=flat-square" alt="https://github.com/prayujt" />
@@ -11,7 +11,7 @@ My name is Prayuj and I am an upcoming Software Engineer Intern @ Capital One! I
 from prayujt import Information
 
 class Skills(Information):
-  languages     = ['C++', 'Python, 'Java', 'JavaScript, 'SQL, 'Bash, 'LaTeX'];
+  languages     = ['C++', 'Python', 'Java', 'JavaScript', 'SQL', 'Bash', 'LaTeX'];
   technologies  = ['Linux', 'Vim', 'Emacs', 'Git'];
   databases     = ['MySQL', 'MongoDB', 'PostgreSQL', 'Firebase'];
 ```
