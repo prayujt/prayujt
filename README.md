@@ -4,6 +4,10 @@
 My name is Prayuj and I am an upcoming Software Engineer Intern @ Capital One! I am currently double majoring in Computer Science and Mathematics with a minor in History at the University of Florida.
   </samp>
   <br/><br/>
+  <samp>
+	  If you'd like to learn more about me, take a look at my <a href="http://prayujt.com/" target="_blank">website</a>!
+  </samp>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=prayujt&style=flat-square" alt="https://github.com/prayujt" />
 </p>
 
