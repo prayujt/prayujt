@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <p align="center">
   <samp>
-My name is Prayuj and I am an upcoming Software Engineer Intern @ Capital One! I am currently double majoring in Computer Science and Mathematics with a minor in History at the University of Florida.
+Hey! My name is Prayuj and I am an upcoming Software Engineer Intern @ Capital One! I am currently double majoring in Computer Science and Mathematics at the University of Florida.
   </samp>
   <br/><br/>
   <samp>
