@@ -19,9 +19,9 @@ class Skills(Information):
 <hr/>
 <div align="center">
   <a href="https://github.com/prayujt">
-    <img src="https://github-readme-stats.vercel.app/api?username=prayujt&custom_title=📊%20Github%20Stats&line_height=24&theme=tokyonight&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&card_width=300" alt="https://github.com/prayujt" />
+    <img src="https://raw.githubusercontent.com/prayujt/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   </a>
   <a href="https://github.com/prayujt">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayujt&custom_title=📈%20Language%20Usage&layout=compact&theme=tokyonight&count_private=true&hide_border=true&card_width=300" alt="https://github.com/prayujt" />
+    <img src="https://raw.githubusercontent.com/prayujt/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
 </div>
