@@ -15,7 +15,7 @@ Hey! My name is Prayuj and I am an upcoming Software Engineer Intern @ Capital O
 from prayujt import Information
 
 class Skills(Information):
-  languages     = ['C++', 'Python', 'Java', 'JavaScript', 'SQL', 'Bash', 'LaTeX'];
+  languages     = ['C++', 'Python', 'Java', 'NodeJS', 'ReactJS', 'SQL', 'Bash', 'LaTeX'];
   technologies  = ['Linux', 'Vim', 'Emacs', 'Git'];
   databases     = ['MySQL', 'MongoDB', 'PostgreSQL', 'Firebase'];
 ```
