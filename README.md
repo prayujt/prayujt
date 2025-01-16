@@ -1,12 +1,9 @@
 <!-- ### Hi there 👋 -->
 <p align="center">
   <samp>
-Hey! My name is Prayuj! I am a student at the University of Florida  majoring in Computer Science and Mathematics.
+Hey! Welcome to my profile!
   </samp>
   <br/><br/>
-  <samp>
-	  If you'd like to learn more about me, take a look at my <a href="http://prayujt.com/" target="_blank">website</a>!
-  </samp>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=prayujt&style=flat-square" alt="https://github.com/prayujt" />
 </p>
